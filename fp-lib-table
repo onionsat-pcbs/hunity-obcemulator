@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "emulator_footprints")(type "KiCad")(uri "${KIPRJMOD}/emulator_footprints.pretty")(options "")(descr ""))
+)
